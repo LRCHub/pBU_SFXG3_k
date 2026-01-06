@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "HIROSHIMA SEA SIDE",
+  "base_artist": "JAKEN",
+  "createdAt": "2026-01-06T07:49:13.297818Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "HIROSHIMA SEA SIDE",
+      "artist": "Jaken",
+      "has_synced": false,
+      "path": "select/01_HIROSHIMA_SEA_SIDE_Jaken.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HIROSHIMA SEA SIDE",
+      "artist": "JAKEN",
+      "has_synced": false,
+      "path": "select/pl_01_HIROSHIMA_SEA_SIDE_JAKEN.txt"
+    }
+  ]
+}
